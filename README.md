@@ -1,1 +1,1 @@
-# dayone-prakmetkom
+# one-prakmetkom
